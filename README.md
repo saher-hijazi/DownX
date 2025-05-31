@@ -24,7 +24,7 @@ Before running DownX, make sure you have the following installed:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/downx.git
+   git clone(https://github.com/saher-hijazi/DownX.git)
    cd downx
    ```
 
